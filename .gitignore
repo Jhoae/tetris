@@ -1,0 +1,6 @@
+/bin/
+/runtime/
+/rank.txt
+*.o
+*.dSYM/
+.DS_Store
